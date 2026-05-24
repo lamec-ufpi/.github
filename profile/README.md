@@ -43,7 +43,7 @@
   <img src="https://www.unicamp.br/wp-content/uploads/sites/33/2023/07/Logo_Unicamp__0.jpg" alt="UNICAMP Logo" height="55px" style="margin-top: 5px; border-radius: 4px;">
 
   <img src="https://lh3.googleusercontent.com/sitesv/AA5AbUAHIw0oL6KJIk7I4UI2AzlPi5wZY_vMtrc_JDlmKa2QLWVxvvJYPYB2r--2aeaSYLJblvojNDSfESaYJnip_dm2K0NJHN6C2XBlPSlIva1lyN91nyre14onWn_wic1Ge8PAmm_jWbcG2U3HdMy1z7dDXwm6TO9TQsUoc0ODufleCZXMw16PN75H=w16383" alt="PRH Logo" height="55px" style="margin-top: 5px; border-radius: 4px;">
- <img src="https://companieslogo.com/img/orig/VALE_BIG-a760504d.png?t=1720244494" alt="Vale Logo" height="55px" style="margin-top: 5px; border-radius: 4px;">
+
 
   <br>  <br>  <br>
   <!-- ==================== EVENTS SECTION ==================== -->
